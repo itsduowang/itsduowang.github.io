@@ -9,11 +9,11 @@
 locale                   : "en-us"
 title                    : "Duo Wang"
 title_separator          : "-"
-name                     : &name "Duo"
-description              : &description "postdoctoral scholar at lawrence berkeley national laboratory"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Duo (Shawn)"
+description              : &description "postdoctoral scholar at LBL"
+url                      : https://itsduowang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/itsduowang"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
