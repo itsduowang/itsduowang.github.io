@@ -1,1 +1,1 @@
-Personal Webpage for Duo Wang
+[WIP] Personal Webpage for Duo Wang: duowang.me
