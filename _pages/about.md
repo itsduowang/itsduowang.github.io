@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I am Duo Wang. You can also call me Shawn. I am a postdoctoral scholar at Lawrence Berkeley National Laboratory. My research focus on the energy material design using machine learning and first-principles calculations.
+Hi there. I am Duo. You can also call me Shawn.
+
+I am a postdoctoral scholar at Lawrence Berkeley National Laboratory. In [HackingMaterials](https://hackingmaterials.lbl.gov) research group, my work focus on the energy material design using machine learning and first-principles calculations.
