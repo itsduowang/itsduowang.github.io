@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duo"
+  name             : "Duo (Shawn)"
   avatar           : "team_duoW.png"
   bio              : "postdoctoral scholar"
   location         : "San Fancisco, CA"
-  employer         : "Lawrence Berkeley National Laboratory"
   googlescholar    : "https://scholar.google.com/citations?user=HKpRhZ8AAAAJ&hl=en"
   email            : "duowang.work@gmail.com"
   github           : "itsduowang"
   instagram        : "cashonlythanksss"
   linkedin         : "https://www.linkedin.com/in/itsduowang/"
   orcid            : "https://orcid.org/0000-0002-0674-4487"
+  # employer         : "Lawrence Berkeley National Laboratory"
   # google_plus      : ""
   # keybase          : ""
   # pubmed           : ""
