@@ -1,4 +1,14 @@
 ---
+author_profile: true
+permalink: /talks/
+title: "Talks"
+author_profile: true
+redirect_from: 
+  - /talks.html
+---
+
+
+---
 title: "Talk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "Talk"

@@ -1,4 +1,13 @@
 ---
+author_profile: true
+permalink: /projects/
+title: "Projects"
+author_profile: true
+redirect_from: 
+  - /projects.html
+---
+
+---
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
