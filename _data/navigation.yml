@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Talks"
     url: /talks/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Code Blog"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
