@@ -5,8 +5,8 @@
 # for technical reasons, this file is *not* reloaded automatically when you use
 # `jekyll serve`. if you change this file, please restart the server process.
 
-# site settings
-locale                   : "en-us"
+# Site settings
+locale                   : "en-US"
 title                    : "Duo Wang"
 title_separator          : "-"
 name                     : &name "Duo (Shawn)"
@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
